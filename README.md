@@ -5,6 +5,9 @@ FireflyWatchFace-mechanical 是一个概念性手表表盘项目，旨在把机�
 
 > 说明：虽然现在的外观看起来可能没那么像“流萤”主题，但我会尽力把主题感表现出来。
 
+<img style="width: 30%; height: auto;" alt="WearOS-Tools" src="https://github.com/user-attachments/assets/14362f85-89e1-481a-bee5-16d98a7ad7e9" />
+
+
 ## 兼容性
 - 适配：Wear OS 3+（Android 11 及以上）
 - 未测试：Android 9 未经测试，可能存在兼容性问题
